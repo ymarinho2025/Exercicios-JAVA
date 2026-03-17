@@ -1,4 +1,7 @@
-package model.entities;
+package model.services;
+
+import model.entities.CarRental;
+import model.entities.Invoice;
 
 import java.time.Duration;
 

@@ -1,9 +1,8 @@
-import model.entities.BrazilTaxService;
+import model.services.BrazilTaxService;
 import model.entities.CarRental;
-import model.entities.RentalService;
+import model.services.RentalService;
 import model.entities.Vehicle;
 
-import java.io.IOException;
 import java.text.ParseException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
